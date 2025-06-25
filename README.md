@@ -2,7 +2,6 @@
 
 
 GenAI-Resume-Screener/
-│
 ├── app.py                  
 ├── resume_parser.py       
 ├── job_description.txt     
